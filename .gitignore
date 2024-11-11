@@ -1,5 +1,5 @@
 # Ambientes Virtuais Python
-venv/
+**/venv/
 .env
 
 # Arquivos de sistema

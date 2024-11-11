@@ -1,0 +1,15 @@
+# Ambientes Virtuais Python
+venv/
+.env
+
+# Arquivos de sistema
+.DS_Store
+
+# Dependências NPM/Node.js
+node_modules/
+
+# Arquivos de compilação
+*.pyc
+*.class
+target/
+build/

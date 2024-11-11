@@ -1,4 +1,4 @@
-import os
+import os       # Para usar o Sistema Operacional
 import tempfile
 import pandas as pd
 import pytesseract
